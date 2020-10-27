@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/ogw/ADGmqu-mfXA-oq04H82TcIWTi4HIuoDHyAjC1LvyGSJJ=s83-c-mo" group-title="Yearly & monthly ZalTV",Yearly & monthly ZalTV special offer
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/ogw/ADGmqu-mfXA-oq04H82TcIWTi4HIuoDHyAjC1LvyGSJJ" group-title="Yearly & monthly ZalTV",Yearly & monthly ZalTV special offer
 https://streamable.com/nyw3kv
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport(300)",Eurosport
 http://84.22.43.246:8000/play/a05n?checkedby 
