@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://zaltv.co/logo.jpg" group-title="Premium IPTV & ZalTV",Long term IPTV & ZalTV special offer
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-logo="https://zaltv.co/logo.jpg" group-title="Sport",Long term Sport IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 1 HD
+http://cmskos.bekaks.net:777/BahriQitaku/7846/3555?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 2 HD
+http://cmskos.bekaks.net:777/BahriQitaku/7846/3554?checkedby:zaltv.co
+
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 3 HD
+http://cmskos.bekaks.net:777/BahriQitaku/7846/3553?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 1 FHD
+http://new-pro.tv:8080/Hotel-2021/Allroom/133903?checkedby:zaltv.co
+
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 2 FHD
+http://new-pro.tv:8080/Hotel-2021/Allroom/133904?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 3 FHD
+http://new-pro.tv:8080/Hotel-2021/Allroom/133905?checkedby:zaltv.co
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 1 HD
+http://cmskos.bekaks.net:777/BahriQitaku/7846/883?checkedby:zaltv.co
