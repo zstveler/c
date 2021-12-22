@@ -1,3 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://zaltv.co/logo.jpg" group-title="Premium IPTV & ZalTV",Long term Adult IPTV & ZalTV
+#EXTINF:0 tvg-logo="https://zaltv.co/logo.jpg" group-title="Premium IPTV & ZalTV",movie 1
 https://zaltv.co/ads/in-app-ads.mp4?checkedby:zaltv.co
+#EXTINF:0 tvg-logo="https://zaltv.co/logo.jpg" group-title="Premium IPTV & ZalTV",movie 2 (Flexible)
+https://zaltv.co/ads/in-app-ads.mp4
+
